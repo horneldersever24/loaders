@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/rivals-spam0-ki5qjxeegc7uxq.lua"))()
