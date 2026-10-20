@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/hlwn-evade-spam1-4lh24er8gmx0mp.lua"))()
