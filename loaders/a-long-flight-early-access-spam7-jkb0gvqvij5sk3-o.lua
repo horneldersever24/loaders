@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/a-long-flight-early-access-spam7-jkb0gvqvij5sk3.lua"))()
